@@ -4,8 +4,8 @@
 
 Google Books Search is a React app that uses the Google Books API to display book information from a user query. The books can then be saved and deleted using MongoDB.
 
-![search page screenshot](public/assets/img/hp1.png)
-![search page screenshot](public/assets/img/hp2.png)
+![search page screenshot](assets/img/hp1.png)
+![search page screenshot](assets/img/hp2.png)
 
 ## Table of Contents
 
